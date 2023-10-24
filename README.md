@@ -2,6 +2,13 @@
 
 Este projeto tem como objetivo criar uma interface gráfica em Python usando a biblioteca PySimpleGUI. O foco principal é criar uma interface de login simples onde os usuários podem inserir um nome de usuário e senha. Se as credenciais de login forem corretas, uma mensagem de boas-vindas será exibida.
 
+# As Is:
+
+
+![image](https://github.com/MaolyDevTech/Interface-Graf-Python/assets/144358009/c23e7366-3e72-4f58-9b60-caf1b6af892e)
+
+
+
 ## Configurando o Ambiente de Desenvolvimento
 
 Para começar a trabalhar neste projeto, siga as etapas a seguir:
