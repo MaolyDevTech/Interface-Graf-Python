@@ -5,7 +5,7 @@ Este projeto tem como objetivo criar uma interface gráfica em Python usando a b
 # As Is:
 
 
-![image](https://github.com/MaolyDevTech/Interface-Graf-Python/assets/144358009/c23e7366-3e72-4f58-9b60-caf1b6af892e)
+![image](https://github.com/MaolyDevTech/Interface-Graf-Python/assets/144358009/c23e7366-3e72-4f58-9b60-caf1b6af892e)      
 
 
 
