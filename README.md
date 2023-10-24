@@ -7,6 +7,9 @@ Este projeto tem como objetivo criar uma interface gráfica em Python usando a b
 
 ![image](https://github.com/MaolyDevTech/Interface-Graf-Python/assets/144358009/c23e7366-3e72-4f58-9b60-caf1b6af892e)      
 
+# To Be:
+
+![image](https://github.com/MaolyDevTech/Interface-Graf-Python/assets/144358009/8ebaa548-6b00-4d44-a518-ff56725bbefe)
 
 
 ## Configurando o Ambiente de Desenvolvimento
